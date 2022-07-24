@@ -1,0 +1,26 @@
+<annotation>
+  <folder>/content/drive/MyDrive/images/AUG/images</folder>
+  <filename>maksssksksss398_2.png</filename>
+  <path>/content/drive/MyDrive/images/AUG/images/maksssksksss398_2.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>298</width>
+    <height>252</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>with_mask</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>163</xmin>
+      <ymin>176</ymin>
+      <xmax>90</xmax>
+      <ymax>101</ymax>
+    </bndbox>
+  </object>
+</annotation>

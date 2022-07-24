@@ -1,0 +1,26 @@
+<annotation>
+  <folder>/content/drive/MyDrive/images/AUG/images</folder>
+  <filename>maksssksksss748_8.png</filename>
+  <path>/content/drive/MyDrive/images/AUG/images/maksssksksss748_8.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>225</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>mask_weared_incorrect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>179</xmin>
+      <ymin>47</ymin>
+      <xmax>283</xmax>
+      <ymax>169</ymax>
+    </bndbox>
+  </object>
+</annotation>
